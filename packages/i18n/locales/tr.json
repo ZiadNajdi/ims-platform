@@ -1,0 +1,69 @@
+{
+  "common": {
+    "appName": "IMS-Viviana",
+    "loading": "Yükleniyor...",
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "search": "Ara",
+    "filter": "Filtrele",
+    "noResults": "Sonuç bulunamadı",
+    "confirm": "Onayla",
+    "back": "Geri",
+    "next": "İleri",
+    "submit": "Gönder",
+    "logout": "Çıkış Yap"
+  },
+  "nav": {
+    "dashboard": "Panel",
+    "inventory": "Envanter",
+    "scan": "Tara",
+    "profile": "Profil",
+    "settings": "Ayarlar",
+    "stock": "Stok"
+  },
+  "dashboard": {
+    "title": "Panel",
+    "welcome": "Tekrar hoş geldiniz",
+    "totalItems": "Toplam Ürün",
+    "lowStock": "Düşük Stok",
+    "recentActivity": "Son Aktiviteler",
+    "quickActions": "Hızlı İşlemler"
+  },
+  "inventory": {
+    "title": "Envanter",
+    "addItem": "Ürün Ekle",
+    "editItem": "Ürün Düzenle",
+    "sku": "SKU",
+    "name": "Ürün Adı",
+    "quantity": "Miktar",
+    "location": "Konum",
+    "category": "Kategori",
+    "lastUpdated": "Son Güncelleme"
+  },
+  "scan": {
+    "title": "Tara",
+    "scanBarcode": "Barkod Tara",
+    "manualEntry": "Manuel Giriş",
+    "scanResult": "Tarama Sonucu",
+    "noItemFound": "Bu barkod için ürün bulunamadı"
+  },
+  "profile": {
+    "title": "Profil",
+    "name": "Ad Soyad",
+    "email": "E-posta",
+    "role": "Rol",
+    "warehouse": "Depo",
+    "language": "Dil",
+    "notifications": "Bildirimler"
+  },
+  "settings": {
+    "title": "Ayarlar",
+    "general": "Genel",
+    "appearance": "Görünüm",
+    "language": "Dil",
+    "darkMode": "Karanlık Mod",
+    "about": "Hakkında"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "common": {
+    "appName": "IMS-Viviana",
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "search": "Search",
+    "filter": "Filter",
+    "noResults": "No results found",
+    "confirm": "Confirm",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "logout": "Logout"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "inventory": "Inventory",
+    "scan": "Scan",
+    "profile": "Profile",
+    "settings": "Settings",
+    "stock": "Stock"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome back",
+    "totalItems": "Total Items",
+    "lowStock": "Low Stock",
+    "recentActivity": "Recent Activity",
+    "quickActions": "Quick Actions"
+  },
+  "inventory": {
+    "title": "Inventory",
+    "addItem": "Add Item",
+    "editItem": "Edit Item",
+    "sku": "SKU",
+    "name": "Product Name",
+    "quantity": "Quantity",
+    "location": "Location",
+    "category": "Category",
+    "lastUpdated": "Last Updated"
+  },
+  "scan": {
+    "title": "Scan",
+    "scanBarcode": "Scan Barcode",
+    "manualEntry": "Manual Entry",
+    "scanResult": "Scan Result",
+    "noItemFound": "No item found for this barcode"
+  },
+  "profile": {
+    "title": "Profile",
+    "name": "Full Name",
+    "email": "Email",
+    "role": "Role",
+    "warehouse": "Warehouse",
+    "language": "Language",
+    "notifications": "Notifications"
+  },
+  "settings": {
+    "title": "Settings",
+    "general": "General",
+    "appearance": "Appearance",
+    "language": "Language",
+    "darkMode": "Dark Mode",
+    "about": "About"
+  }
+}
