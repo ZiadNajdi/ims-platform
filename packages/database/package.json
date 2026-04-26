@@ -1,0 +1,17 @@
+{
+  "name": "@ims-viviana/database",
+  "version": "0.1.0",
+  "private": true,
+  "main": "./index.ts",
+  "types": "./index.ts",
+  "files": ["*.ts", "*.json", "*.js"],
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.42.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
