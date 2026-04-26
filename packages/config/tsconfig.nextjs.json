@@ -1,6 +1,6 @@
 {
   "$schema": "https://json.schemastore.org/tsconfig",
-  "display": "IMS-Viviana Next.js Config",
+  "display": "IMS-Platform Next.js Config",
   "extends": "./tsconfig.base.json",
   "compilerOptions": {
     "jsx": "preserve",

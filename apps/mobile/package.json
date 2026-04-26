@@ -1,5 +1,5 @@
 {
-  "name": "@ims-viviana/mobile",
+  "name": "@ims-platform/mobile",
   "main": "expo-router/entry",
   "version": "0.1.0",
   "private": true,
@@ -10,7 +10,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "@ims-viviana/utils": "*",
+    "@ims-platform/utils": "*",
     "@expo/vector-icons": "^15.0.3",
     "@react-native-async-storage/async-storage": "2.1.2",
     "@react-navigation/native": "^7.1.8",

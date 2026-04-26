@@ -7,7 +7,7 @@
 const SKU_REGEX = /^IMS-[A-Z0-9]{4}-\d{4}$/;
 
 /**
- * Validate a SKU string against the IMS-Viviana format.
+ * Validate a SKU string against the IMS-Platform format.
  */
 export function isValidSku(sku: string): boolean {
   return SKU_REGEX.test(sku.toUpperCase().trim());

@@ -18,7 +18,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "IMS-Viviana — Warehouse Management",
+  title: "IMS-Platform — Warehouse Management",
   description:
     "Bilingual inventory and warehouse management system for modern operations.",
 };

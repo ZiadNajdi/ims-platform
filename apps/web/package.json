@@ -1,5 +1,5 @@
 {
-  "name": "@ims-viviana/web",
+  "name": "@ims-platform/web",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,9 +9,9 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@ims-viviana/database": "*",
-    "@ims-viviana/i18n": "*",
-    "@ims-viviana/utils": "*",
+    "@ims-platform/database": "*",
+    "@ims-platform/i18n": "*",
+    "@ims-platform/utils": "*",
     "clsx": "^2.1.1",
     "framer-motion": "^12.38.0",
     "lucide-react": "^1.11.0",

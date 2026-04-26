@@ -228,7 +228,7 @@ export default function ProfileScreen() {
         </Pressable>
 
         <Text style={[styles.footer, { color: colors.muted }]}>
-          IMS-Viviana v0.1.0 • Warehouse Management System
+          IMS-Platform v0.1.0 • Warehouse Management System
         </Text>
       </ScrollView>
     </SafeAreaView>

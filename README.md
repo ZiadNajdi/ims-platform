@@ -1,13 +1,13 @@
 <p align="center">
-  <strong>IMS-Viviana</strong><br/>
+  <strong>IMS-Platform</strong><br/>
   <sub>Inventory & Warehouse Management System</sub>
 </p>
 
 ---
 
-# IMS-Viviana
+# IMS-Platform
 
-A full-stack, bilingual (EN/TR) inventory and warehouse management system built as a monorepo. The platform provides real-time dashboards, inventory CRUD, bulk stock operations, inter-warehouse transfers, QR label generation, and CSV data exports — all backed by a Supabase (PostgreSQL) database.
+A full-stack, inventory and warehouse management system built as a monorepo. The platform provides real-time dashboards, inventory CRUD, bulk stock operations, inter-warehouse transfers, QR label generation, and CSV data exports — all backed by a Supabase (PostgreSQL) database.
 
 ## Tech Stack
 
@@ -26,7 +26,7 @@ A full-stack, bilingual (EN/TR) inventory and warehouse management system built 
 ## Project Structure
 
 ```
-ims-viviana/
+ims-platform/
 ├── apps/
 │   ├── web/                      # Next.js web dashboard
 │   │   ├── app/
@@ -84,7 +84,7 @@ ims-viviana/
 
 ### Shared
 
-- **Bilingual** — English and Turkish translations via shared `@ims-viviana/i18n` package
+- **Bilingual** — English and Turkish translations via shared `@ims-platform/i18n` package
 
 ## Database Schema
 
@@ -116,7 +116,7 @@ The `public` schema contains the following tables and views:
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd ims-viviana
+   cd ims-platform
    ```
 
 2. **Install dependencies**
@@ -140,23 +140,23 @@ The `public` schema contains the following tables and views:
 
 4. **Run the web app**
    ```bash
-   npm run dev --workspace=@ims-viviana/web
+   npm run dev --workspace=@ims-platform/web
    ```
    Open [http://localhost:3000](http://localhost:3000)
 
 5. **Run the mobile app** (optional)
    ```bash
-   npm run start --workspace=@ims-viviana/mobile
+   npm run start --workspace=@ims-platform/mobile
    ```
 
 ## Scripts
 
 | Command | Description |
 |---|---|
-| `npm run dev -w @ims-viviana/web` | Start Next.js dev server |
-| `npm run build -w @ims-viviana/web` | Production build |
-| `npm run lint -w @ims-viviana/web` | Lint the web app |
-| `npm run start -w @ims-viviana/mobile` | Start Expo dev server |
+| `npm run dev -w @ims-platform/web` | Start Next.js dev server |
+| `npm run build -w @ims-platform/web` | Production build |
+| `npm run lint -w @ims-platform/web` | Lint the web app |
+| `npm run start -w @ims-platform/mobile` | Start Expo dev server |
 
 ## License
 

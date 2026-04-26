@@ -1,6 +1,6 @@
 {
   "$schema": "https://json.schemastore.org/tsconfig",
-  "display": "IMS-Viviana React Native Config",
+  "display": "IMS-Platform React Native Config",
   "extends": "./tsconfig.base.json",
   "compilerOptions": {
     "jsx": "react-jsx",

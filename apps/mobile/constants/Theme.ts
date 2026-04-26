@@ -1,5 +1,5 @@
 /**
- * IMS-Viviana Theme Constants
+ * IMS-Platform Theme Constants
  * Shared typography, spacing, and styling primitives.
  */
 

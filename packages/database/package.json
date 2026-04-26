@@ -1,5 +1,5 @@
 {
-  "name": "@ims-viviana/database",
+  "name": "@ims-platform/database",
   "version": "0.1.0",
   "private": true,
   "main": "./index.ts",

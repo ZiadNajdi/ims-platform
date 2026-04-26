@@ -1,5 +1,5 @@
 {
-  "name": "@ims-viviana/utils",
+  "name": "@ims-platform/utils",
   "version": "0.1.0",
   "private": true,
   "main": "./index.ts",

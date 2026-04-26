@@ -1,5 +1,5 @@
 /**
- * Supabase client for the IMS-Viviana Mobile App.
+ * Supabase client for the IMS-Platform Mobile App.
  * Uses Expo's EXPO_PUBLIC_ env vars.
  */
 import { createClient } from '@supabase/supabase-js';

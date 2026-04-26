@@ -1,5 +1,5 @@
 /**
- * IMS-Viviana Design Tokens
+ * IMS-Platform Design Tokens
  * Matches the web app's industrial-editorial aesthetic.
  */
 

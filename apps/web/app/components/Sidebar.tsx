@@ -21,7 +21,7 @@ export default function Sidebar() {
           <Database className="w-4 h-4" />
         </div>
         <div>
-          <h1 className="font-heading text-sm font-bold tracking-widest uppercase">IMS-Viviana</h1>
+          <h1 className="font-heading text-sm font-bold tracking-widest uppercase">IMS-Platform</h1>
           <p className="font-mono text-[10px] text-muted uppercase tracking-wider">v0.1.0-alpha</p>
         </div>
       </div>
@@ -61,10 +61,10 @@ export default function Sidebar() {
       <div className="border-t border-border p-4">
         <div className="flex items-center gap-3 border border-border bg-surface-hover/50 p-2 hover:bg-surface-hover transition-colors cursor-pointer">
           <div className="flex h-8 w-8 items-center justify-center bg-primary/10 text-primary font-heading font-bold text-sm">
-            V
+            N
           </div>
           <div className="flex-1 truncate">
-            <p className="truncate font-mono text-xs font-bold uppercase tracking-wider">Viviana</p>
+            <p className="truncate font-mono text-xs font-bold uppercase tracking-wider">Operator</p>
             <p className="truncate font-mono text-[10px] text-muted uppercase">Terminal 01</p>
           </div>
         </div>

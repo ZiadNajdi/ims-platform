@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "IMS-Viviana",
-    "slug": "ims-viviana-mobile",
+    "name": "IMS-Platform",
+    "slug": "ims-platform-mobile",
     "version": "0.1.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "ims-viviana",
+    "scheme": "ims-platform",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "splash": {
@@ -16,7 +16,7 @@
     "ios": {
       "supportsTablet": true,
       "infoPlist": {
-        "NSCameraUsageDescription": "IMS-Viviana needs camera access to scan QR codes and barcodes for inventory operations."
+        "NSCameraUsageDescription": "IMS-Platform needs camera access to scan QR codes and barcodes for inventory operations."
       }
     },
     "android": {
@@ -38,7 +38,7 @@
       [
         "expo-camera",
         {
-          "cameraPermission": "IMS-Viviana needs camera access to scan QR codes and barcodes for inventory operations."
+          "cameraPermission": "IMS-Platform needs camera access to scan QR codes and barcodes for inventory operations."
         }
       ]
     ],

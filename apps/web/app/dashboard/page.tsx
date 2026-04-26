@@ -30,8 +30,8 @@ import {
   Tooltip,
   ResponsiveContainer
 } from "recharts";
-import { formatDateTime } from "@ims-viviana/utils";
-import { supabase } from "@ims-viviana/database";
+import { formatDateTime } from "@ims-platform/utils";
+import { supabase } from "@ims-platform/database";
 import { useNotification } from "../components/NotificationProvider";
 import { validateSKU, validateQuantity, formatInput } from "../utils/validation";
 
@@ -1081,7 +1081,7 @@ export default function DashboardPage() {
 
               <div className="pt-8 border-t border-black/10 flex justify-between text-[8px] font-mono uppercase opacity-40">
                 <p>Digital Signature Valid</p>
-                <p>IMS-Viviana Protocol v1.0</p>
+                <p>IMS-Platform Protocol v1.0</p>
               </div>
             </div>
 

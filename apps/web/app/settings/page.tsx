@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import { Save, RefreshCw, Loader2, Check, Warehouse, Plus, Trash2 } from "lucide-react";
 import { useTheme } from "../components/ThemeProvider";
-import { supabase } from "@ims-viviana/database";
+import { supabase } from "@ims-platform/database";
 import { useNotification } from "../components/NotificationProvider";
 import { ConfirmationModal } from "../components/ConfirmationModal";
 

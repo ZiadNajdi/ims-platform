@@ -1,6 +1,6 @@
 {
   "$schema": "https://json.schemastore.org/tsconfig",
-  "display": "IMS-Viviana Base Config",
+  "display": "IMS-Platform Base Config",
   "compilerOptions": {
     "strict": true,
     "esModuleInterop": true,

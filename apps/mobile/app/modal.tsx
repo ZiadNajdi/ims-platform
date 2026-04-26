@@ -5,7 +5,7 @@ import { Text, View } from '@/components/Themed';
 export default function ModalScreen() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>IMS-Viviana</Text>
+      <Text style={styles.title}>IMS-Platform</Text>
       <Text style={styles.subtitle}>Warehouse Management System</Text>
       <Text style={styles.version}>v0.1.0</Text>
 

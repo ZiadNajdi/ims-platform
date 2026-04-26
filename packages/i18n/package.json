@@ -1,5 +1,5 @@
 {
-  "name": "@ims-viviana/i18n",
+  "name": "@ims-platform/i18n",
   "version": "0.1.0",
   "private": true,
   "main": "./index.ts",
